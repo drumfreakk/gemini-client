@@ -1,1 +1,1 @@
-# gemini-server
+# gemini-client
