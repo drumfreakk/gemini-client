@@ -6,7 +6,7 @@ SRC := src
 INCLUDE := include
 BIN := bin
 #LIB := lib
-NAME := gemini-server
+NAME := gemini-client
 
 MAIN := $(BIN)/$(NAME)
 SOURCEDIRS := $(shell find $(SRC) -type d)
